@@ -3,5 +3,7 @@ https://vi.wikipedia.org/wiki/Address_Resolution_Protocol
 https://github.com/hocchudong/thuctap012017/blob/master/TamNT/T%C3%ACm%20hi%E1%BB%83u%20giao%20th%E1%BB%A9c%20ARP.md
 https://vi.wikipedia.org/wiki/M%E1%BA%A1ng_m%C3%A1y_t%C3%ADnh
 https://viblo.asia/p/tim-hieu-giao-thuc-arprarp-trong-bo-giao-thuc-tcpip-mPjxMeZKG4YL
+http://www.vnpro.org/forum/forum/cclabpro/ccnp-labpro-ccnp-switching/27559-arp-attack-c%C6%A1-ch%E1%BA%BF-t%E1%BA%A5n-c%C3%B4ng-v%C3%A0-c%C3%A1ch-ph%C3%B2ng-ch%E1%BB%91ng
 
-
+http://www.academia.edu/5648727/ARP_Spoofing-_Analysis_using_Wireshark_on_2_different_OS_LINUX_and_WINDOWS
+https://security.stackexchange.com/questions/91170/how-to-simulate-network-attacks-and-use-wireshark-to-detect-them
